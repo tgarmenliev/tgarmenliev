@@ -38,7 +38,7 @@
   - 🌱 I’m currently learning Kotlin and mobile development.
   - 👯 I’m looking to collaborate on more projects.
   - 💬 Ask me about Kotlin, JavaScript, Java, Python.
-  - 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:tihomir.garmenliev@gmail.com).
+  - 📫 How to reach me: [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tihomir.garmenliev@gmail.com)
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
 </div>
