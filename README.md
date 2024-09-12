@@ -37,18 +37,29 @@
   - 🔭 I’m currently working on the BulTrain project.
   - 🌱 I’m currently learning Kotlin and mobile development.
   - 👯 I’m looking to collaborate on more projects.
-  - 💬 Ask me about Kotlin, JavaScript, Java, Python.
-  - 📫 How to reach me: [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tihomir.garmenliev@gmail.com)
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
+  - 💬 Ask me about Kotlin, JavaScript, Python.
+  - 📫 How to reach me: tihomir.garmenliev@gmail.com
+  - ⚡ Fun fact: Trains are my passion. 😄
+
+  ---
+  
+  ### :hammer_and_wrench: Languages and Tools :
+
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  </div>
+
+  ---
+
+  ### :fire: My Stats :
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tgarmenliev&theme=blue-green&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgarmenliev&layout=compact&theme=merko)
+  
 </div>
-
-
-
-<!--
-**tgarmenliev/tgarmenliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
