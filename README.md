@@ -19,6 +19,28 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tihomir
   </h1>
+
+  <br>
+
+  <img src="./train_banner_image.jpg" alt="Train Banner Image"/>
+
+  ---
+  
+</div>
+
+<div>
+
+  ### :man_technologist: About Me :
+
+  I am a Junior Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria 🇧🇬.
+
+  - 🔭 I’m currently working on the BulTrain project.
+  - 🌱 I’m currently learning Kotlin and mobile development.
+  - 👯 I’m looking to collaborate on more projects.
+  - 💬 Ask me about Kotlin, JavaScript, Java, Python.
+  - 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:tihomir.garmenliev@gmail.com).
+  - 😄 Pronouns: ...
+  - ⚡ Fun fact: ...
 </div>
 
 
@@ -28,12 +50,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
