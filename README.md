@@ -56,10 +56,14 @@
 
   ---
 
+
   ### :fire: My Stats :
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tgarmenliev&theme=blue-green&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgarmenliev&layout=compact&theme=merko)
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api?username=tgarmenliev&show_icons=true&theme=merko&hide_rank=true&line_height=28" alt="GitHub Streak"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgarmenliev&layout=donut&theme=merko" alt="Top Langs"/>
+  </div>
   
 </div>
